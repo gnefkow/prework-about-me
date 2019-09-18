@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/_DSC0059.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -67,4 +67,21 @@ section > h1 {
 .social > li {
   display: inline-block;
   margin: 0 5px;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: .2em solid #33ccff;
+  color: black;
+  font-weight: bold;
+
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom: .2em solid #33ccff;
+  background-color: #33ccff;
+  color: white;
+  font-weight: bold;
+
 }
